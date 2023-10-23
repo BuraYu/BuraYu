@@ -14,6 +14,16 @@ I am on my way to become a Full Stack dev at [Spiced-Academy](https://www.spiced
 - [ ] VueJS <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>       
 - [ ] MongoDB <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
+<center>
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
+</center>
+
      
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=burayu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 

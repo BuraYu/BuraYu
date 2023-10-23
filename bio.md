@@ -16,5 +16,9 @@ My current Stack
 | MongoDB   | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>        |
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=burayu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
+## How i will look after the course
+
+![image](https://github.com/BuraYu/special-repo/assets/148757057/98eaf608-47a8-4b10-b549-34a11a3374c5)
+
 > [!NOTE]
 > The site will be updated as I aquire more skills

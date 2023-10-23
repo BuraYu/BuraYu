@@ -19,8 +19,8 @@ I am on my way to become a Full Stack dev at [Spiced-Academy](https://www.spiced
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| col 2 is |    qewfqwefcentered   |   $12 |
+| col 3 is | right-alqwefqwefigned |    $1 |
 
 </center>
 

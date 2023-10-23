@@ -14,15 +14,17 @@ I am on my way to become a Full Stack dev at [Spiced-Academy](https://www.spiced
 - [ ] VueJS <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>       
 - [ ] MongoDB <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
-<center>
+## Some of the projects I worked on 
 
-| Tables   |      Are      |  Cool |
+| Project Name   |      Project description      |  Github link  |
 |----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    qewfqwefcentered   |   $12 |
-| col 3 is | right-alqwefqwefigned |    $1 |
-
-</center>
+| Project 1 |  Description of Project 1 | [Project 1](https://github.com/BuraYu/special-repo/)|
+| Project 2 |  Description of Project 2 | [Project 2](https://github.com/BuraYu/special-repo/)|
+| Project 3 |  Description of Project 3 | [Project 3](https://github.com/BuraYu/special-repo/)|
+| Project 4 |  Description of Project 4 | [Project 4](https://github.com/BuraYu/special-repo/)|
+| Project 5 |  Description of Project 5 | [Project 5](https://github.com/BuraYu/special-repo/)|
+| Project 6 |  Description of Project 6 | [Project 6](https://github.com/BuraYu/special-repo/)|
+| Project 7 |  Description of Project 7 | [Project 7](https://github.com/BuraYu/special-repo/)|
 
      
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=burayu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />

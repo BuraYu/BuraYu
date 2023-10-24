@@ -5,7 +5,7 @@ I am on my way to become a Full Stack dev at [Spiced-Academy](https://www.spiced
 ## My current Stack
 
 - [X] Git <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>       
-- [ ] Bash <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>        
+- [X] Bash <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>        
 - [ ] HTML <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>        
 - [ ] CSS <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>        
 - [ ] JS <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>        
@@ -18,20 +18,16 @@ I am on my way to become a Full Stack dev at [Spiced-Academy](https://www.spiced
 
 | Project Name   |      Project description      |  Github link  |
 |----------|:-------------:|------:|
-| Project 1 |  Description of Project 1 | [Project 1](https://github.com/BuraYu/special-repo/)|
-| Project 2 |  Description of Project 2 | [Project 2](https://github.com/BuraYu/special-repo/)|
-| Project 3 |  Description of Project 3 | [Project 3](https://github.com/BuraYu/special-repo/)|
-| Project 4 |  Description of Project 4 | [Project 4](https://github.com/BuraYu/special-repo/)|
-| Project 5 |  Description of Project 5 | [Project 5](https://github.com/BuraYu/special-repo/)|
-| Project 6 |  Description of Project 6 | [Project 6](https://github.com/BuraYu/special-repo/)|
-| Project 7 |  Description of Project 7 | [Project 7](https://github.com/BuraYu/special-repo/)|
+| Soon 😞: |  Description of Project 1 | [Project 1](https://github.com/BuraYu/special-repo/)|
+| Soon 😞 |  Description of Project 2 | [Project 2](https://github.com/BuraYu/special-repo/)|
+| Soon 😞 |  Description of Project 3 | [Project 3](https://github.com/BuraYu/special-repo/)|
+| Soon 😞 |  Description of Project 4 | [Project 4](https://github.com/BuraYu/special-repo/)|
+| Soon 😞 |  Description of Project 5 | [Project 5](https://github.com/BuraYu/special-repo/)|
+| Soon 😞 |  Description of Project 6 | [Project 6](https://github.com/BuraYu/special-repo/)|
+| Soon 😞 |  Description of Project 7 | [Project 7](https://github.com/BuraYu/special-repo/)|
 
      
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=burayu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-## How i will look after the course
-
-![image](https://github.com/BuraYu/special-repo/assets/148757057/98eaf608-47a8-4b10-b549-34a11a3374c5)
 
 > [!NOTE]
 > The site will be updated as I aquire more skills

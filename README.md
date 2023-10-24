@@ -18,7 +18,7 @@ I am on my way to become a Full Stack dev at [Spiced-Academy](https://www.spiced
 
 | Project Name   |      Project description      |  Github link  |
 |----------|:-------------:|------:|
-| Soon 😞: |  Description of Project 1 | [Project 1](https://github.com/BuraYu/special-repo/)|
+| Soon 😞 |  Description of Project 1 | [Project 1](https://github.com/BuraYu/special-repo/)|
 | Soon 😞 |  Description of Project 2 | [Project 2](https://github.com/BuraYu/special-repo/)|
 | Soon 😞 |  Description of Project 3 | [Project 3](https://github.com/BuraYu/special-repo/)|
 | Soon 😞 |  Description of Project 4 | [Project 4](https://github.com/BuraYu/special-repo/)|

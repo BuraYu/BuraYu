@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">Fullstack-Dev based in Berlin.</h3>
+<h3 align="center">Fullstack-Dev born and raised and based in Berlin.</h3>
 
 <p align="center">
   🔭 I’m currently working on <a href="https://github.com/BuraYu/bento">Bento Grid</a><br>

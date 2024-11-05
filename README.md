@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">Fullstack-Dev based in Berlin.</h3>
+<h3 align="center">Fullstack-Dev born and raised and based in Berlin.</h3>
 
-🔭 I’m currently working on [Bento Grid](https://github.com/BuraYu/bento)
- 👨‍💻 All of my projects are available at [https://github.com/BuraYu](https://github.com/BuraYu)
- 📫 How to reach me **burak.yueksel@hotmail.com**
+- 🔭 I’m currently working on [Bento Grid](https://github.com/BuraYu/bento)
+
+- 👨‍💻 All of my projects are available at [https://github.com/BuraYu](https://github.com/BuraYu)
+
+- 📫 How to reach me **burak.yueksel@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

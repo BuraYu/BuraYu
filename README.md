@@ -2,8 +2,8 @@
 <h3 align="center">Fullstack-Dev born and raised and based in Berlin.</h3>
 
 <p align="center">
-  🔭 I’m currently working on <a href="[https://github.com/BuraYu/fylo](https://github.com/BuraYu/fylo)">Fylo</a><br>
-  ✅ Latest Project done <a href="[https://github.com/BuraYu/bento](https://github.com/BuraYu/bento)">Bento</a><br>
+  🔭 I’m currently working on <a href="https://github.com/BuraYu/fylo">https://github.com/BuraYu/fylo</a> Fylo</a><br>
+  ✅ Latest Project done <a href="https://github.com/BuraYu/bento">https://github.com/BuraYu/bento</a> Bento</a><br>
   👨‍💻 All of my projects are available at <a href="https://github.com/BuraYu">https://github.com/BuraYu</a><br>
   📫 How to reach me: <strong>burak.yueksel@hotmail.com</strong>
 </p>

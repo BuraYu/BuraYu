@@ -3,7 +3,7 @@
 
 <p align="center">
   🔭 I’m currently working on <a href="https://github.com/BuraYu/nodeJSCompProj">https://github.com/BuraYu/nodeJSCompProj</a> NodeJS Comp Proj</a><br>
-  ✅ Latest Project done <a href="https://github.com/BuraYu/bento">https://github.com/BuraYu/bento</a> Bento</a><br>
+  ✅ Latest Project done <a href="https://github.com/BuraYu/fylo">https://github.com/BuraYu/Fylo</a> Bento</a><br>
   👨‍💻 All of my projects are available at <a href="https://github.com/BuraYu">https://github.com/BuraYu</a><br>
   📫 How to reach me: <strong>burak.yueksel@hotmail.com</strong>
 </p>

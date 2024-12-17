@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">Fullstack-Dev born and raised and based in Berlin.</h3>
 
-<p align="center">
-  🔭 I’m currently working on <a href="https://github.com/BuraYu/linkShortener">https://github.com/BuraYu/linkShortener</a> Link shortener, that will give a randomly generated link, with QR code</a><br>
+<p align="left">
+  🔭 I’m currently working on <a href="https://github.com/BuraYu/linkShortener">Link shortener - Shortly</a>, that lets you manage generated links and give a randomly generated links, with QR code</a><br>
   ✅ Latest Project done <a href="https://github.com/BuraYu/fylo">https://github.com/BuraYu/Fylo</a> Fylo</a><br>
-  👨‍💻 All of my projects are available at <a href="https://github.com/BuraYu">https://github.com/BuraYu</a><br>
+  👨‍💻 All of my projects are available at <a href="portfolio-v2-seven-lilac.vercel.app/">here</a><br>
   📫 How to reach me: <strong>burak.yueksel@hotmail.com</strong>
 </p>
 

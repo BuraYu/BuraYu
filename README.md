@@ -2,9 +2,9 @@
 <h3 align="center">Fullstack-Dev born and raised and based in Berlin.</h3>
 
 <p align="left">
-  🔭 I’m currently working on <a href="https://github.com/BuraYu/linkShortener">Link shortener - Shortly</a>, that lets you manage generated links and give a randomly generated links, with QR code</a><br>
+  🔭 I’m currently working on <a href="https://github.com/BuraYu/techbook">TechBook</a>, a bookclub for tech enthusiasts</a><br>
   ✅ Latest Project done <a href="https://github.com/BuraYu/fylo">https://github.com/BuraYu/Fylo</a> Fylo</a><br>
-  👨‍💻 All of my projects are available at <a href="portfolio-v2-seven-lilac.vercel.app/">here</a><br>
+  👨‍💻 All of my projects are available at <a href="https://portfolio-v2-seven-lilac.vercel.app/">here</a><br>
   📫 How to reach me: <strong>burak.yueksel@hotmail.com</strong>
 </p>
 

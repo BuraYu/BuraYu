@@ -2,8 +2,7 @@
 <h3 align="center">Fullstack-Dev born and raised and based in Berlin.</h3>
 
 <p align="left">
-  🔭 I’m currently working on <a href="https://github.com/BuraYu/techbook">TechBook</a>, a bookclub for tech enthusiasts</a><br>
-  ✅ Latest Project done <a href="https://github.com/BuraYu/fylo">https://github.com/BuraYu/Fylo</a> Fylo</a><br>
+  ✅ Latest Project done <a href="https://github.com/BuraYu/rsvp">https://github.com/BuraYu/rsvp</a> Flockr</a><br>
   👨‍💻 All of my projects are available at <a href="https://portfolio-v2-seven-lilac.vercel.app/">here</a><br>
   📫 How to reach me: <strong>burak.yueksel@hotmail.com</strong>
 </p>

@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack-Dev born and raised and based in Berlin.</h3>
 
 <p align="left">
-  ✅ Latest Project done <a href="https://github.com/BuraYu/rsvp">https://github.com/BuraYu/rsvp</a> Flockr</a><br>
+  ✅ Latest Project done: <a href="https://github.com/BuraYu/rsvp" target="_blank">RSVP App</a> Flockr <br>
   👨‍💻 All of my projects are available at <a href="https://portfolio-v2-seven-lilac.vercel.app/">here</a><br>
   📫 How to reach me: <strong>burak.yueksel@hotmail.com</strong>
 </p>

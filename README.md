@@ -3,7 +3,7 @@
 
 <p align="left">
   ✅ Latest Project done: <a href="https://github.com/BuraYu/rsvp" target="_blank">RSVP App</a> Flockr <br>
-  👨‍💻 All of my projects are available at <a href="https://portfolio-v2-seven-lilac.vercel.app/">here</a><br>
+  👨‍💻 All of my projects are available at <a href="https://burakyueksel.com/">here</a><br>
   📫 How to reach me: <strong>burak.yueksel@hotmail.com</strong>
 </p>
 
